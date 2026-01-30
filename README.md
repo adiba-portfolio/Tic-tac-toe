@@ -1,4 +1,4 @@
-## 🎮 Tic-Tac-Toe
+## ⭕❌ Tic-Tac-Toe
 
 This project is a simple console-based game written in Python. Core gameplay functionality is fully implemented, allowing two players to play Tic-Tac-Toe from the terminal.
 
